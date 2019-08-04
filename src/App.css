@@ -1,0 +1,42 @@
+* {
+    margin: auto;
+}
+
+#pic {
+    height: 200px;
+}
+
+.edu {
+    border: 1px solid black;
+    margin-bottom: 20px;
+    padding: 30px;
+}
+
+.styling_info {
+    padding: 20px;
+}
+
+#info-c {
+    padding-top: 50px;
+}
+
+#name {
+    padding-top: 50px;
+    /* padding-bottom: 50px; */
+}
+
+#cont {
+    float: right;
+    text-align: left;
+    padding-right: 50px;
+}
+
+#personal {
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+
+#pict {
+    height: 250px;
+    padding-bottom: 20px;
+}
